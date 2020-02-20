@@ -14,7 +14,7 @@
 
 ### To Run Counter Application
 
-- go to the directory Vidly: add command to the command line : cd Counter-Application
+- go to the directory Counter-Application: add command to the command line : cd Counter-Application
 
 ### Install Dependencies
 
